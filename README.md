@@ -32,21 +32,22 @@ vaccinated, and waits to be called again for a total of t times. Once the citize
 times, she leaves and lives happily ever after.
 
 ## Expected Output
-Welcome to the GTU344 clinic. Number of citizens to vaccinate c=8 with t=2 doses.
-Nurse 1 (pid=3451) has brought vaccine 1: the clinic has 1 vaccine1 and 0 vaccine2.
-Nurse 3 (pid=3452) has brought vaccine 1: the clinic has 2 vaccine1 and 0 vaccine2.
-...
-Nurse 2 has brought vaccine 2: the clinic has 5 vaccine1 and 1 vaccine2.
-Vaccinator 1 (pid=3454) is inviting citizen pid=3456 to the clinic
-...
-Nurse 2 has brought vaccine 2: the clinic has 5 vaccine1 and 2 vaccine2.
-...
-Citizen 1 (pid=3456) is vaccinated for the 1 st time: the clinic has 6 vaccine1 and 1 vaccine2
-...
+Welcome to the GTU344 clinic. Number of citizens to vaccinate c=8 with t=2 doses.<br />
+Nurse 1 (pid=3451) has brought vaccine 1: the clinic has 1 vaccine1 and 0 vaccine2.<br />
+Nurse 3 (pid=3452) has brought vaccine 1: the clinic has 2 vaccine1 and 0 vaccine2.<br />
+...<br />
+Nurse 2 has brought vaccine 2: the clinic has 5 vaccine1 and 1 vaccine2.<br />
+Vaccinator 1 (pid=3454) is inviting citizen pid=3456 to the clinic<br />
+...<br />
+Nurse 2 has brought vaccine 2: the clinic has 5 vaccine1 and 2 vaccine2.<br />
+...<br />
+Citizen 1 (pid=3456) is vaccinated for the 1 st time: the clinic has 6 vaccine1 and 1 vaccine2<br />
+...<br />
 Citizen 1 (pid=3456) is vaccinated for the 5 th time: the clinic has 5 vaccine1 and 3 vaccine2. The
-citizen is leaving. Remaining citizens to vaccinate: 7
+citizen is leaving. Remaining citizens to vaccinate: 7<br />
 ...
-Nurses have carried all vaccines to the buffer, terminating.
-...
-All citizens have been vaccinated .
-Vaccinator 1 (pid=3454) vaccin
+Nurses have carried all vaccines to the buffer, terminating.<br />
+...<br />
+All citizens have been vaccinated .<br />
+Vaccinator 1 (pid=3454) vaccinated 6 doses. Vaccinator 2 (pid=3455) vaccinated 10 doses. The clinic
+is now closed. Stay healthy.
