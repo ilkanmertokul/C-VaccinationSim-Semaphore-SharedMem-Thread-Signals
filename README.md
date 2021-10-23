@@ -54,7 +54,7 @@ is now closed. Stay healthy.
 
 #REPORT
 
-i used three code files: nvc.h, nvc.c, midterm.c (and makefile
+i used three code files: nvc.h, nvc.c, main.c (and makefile
 of course).<br />
 nvc. files are basically helper function to our actions, does not use any shared
 memory or semaphore itself. (nvc stands for nurse – vaccinator - citizen).
