@@ -160,12 +160,12 @@ This function is citizen who waits a SIGUSR1 from vaccinator to get vaccinated,
 in a loop that will iterate t times, which is given by argument count.<br />
 Steps for citizen (in a loop):<br />
 
-1.(before loop) set signal handlers.
-2.Wait for signal
-3.---Zone of Citizen/Vaccinator-----
-4.Print out information about getting vaccinated
-5.Update your left vaccinations.
-6.---Zone of Citizen/Vaccinator-----
+1.(before loop) set signal handlers.<br />
+2.Wait for signal<br />
+3.---Zone of Citizen/Vaccinator-----<br />
+4.Print out information about getting vaccinated<br />
+5.Update your left vaccinations.<br />
+6.---Zone of Citizen/Vaccinator-----<br />
 
 ### int get_best_oldest_citizen(all_roles * info):
 This function returns of citizenmem’s oldest not vaccinated citizen. Returns -1 if
