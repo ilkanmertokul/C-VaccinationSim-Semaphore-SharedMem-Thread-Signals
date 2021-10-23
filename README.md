@@ -32,7 +32,7 @@ vaccinated, and waits to be called again for a total of t times. Once the citize
 times, she leaves and lives happily ever after.
 
 ## Expected Output
-Welcome to the GTU344 clinic. Number of citizens to vaccinate c=8 with t=2 doses.<br />
+Welcome to the clinic. Number of citizens to vaccinate c=8 with t=2 doses.<br />
 Nurse 1 (pid=3451) has brought vaccine 1: the clinic has 1 vaccine1 and 0 vaccine2.<br />
 Nurse 3 (pid=3452) has brought vaccine 1: the clinic has 2 vaccine1 and 0 vaccine2.<br />
 ...<br />
@@ -52,7 +52,7 @@ All citizens have been vaccinated .<br />
 Vaccinator 1 (pid=3454) vaccinated 6 doses. Vaccinator 2 (pid=3455) vaccinated 10 doses. The clinic
 is now closed. Stay healthy.
 
-#REPORT
+# REPORT
 
 i used three code files: nvc.h, nvc.c, main.c (and makefile
 of course).<br />
