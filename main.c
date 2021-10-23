@@ -92,7 +92,7 @@ int main(int argc, char **argv){
 			return 1;
 		}
 
-	printf("Welcome to the GTU344 clinic. Number of citizens to vaccinate c=%d with t=%d doses.\n",info->citizens,info->vaccinatetimes);
+	printf("Welcome to the clinic. Number of citizens to vaccinate c=%d with t=%d doses.\n",info->citizens,info->vaccinatetimes);
 
 	//Atexit initialization.
 		if(atexit(exit_fun) == -1){
